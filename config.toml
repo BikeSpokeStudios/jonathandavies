@@ -8,3 +8,6 @@ publishDir = "docs"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
+
+[params]
+  sitename = "Jonathan Davies"
