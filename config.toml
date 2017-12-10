@@ -14,14 +14,13 @@ pygmentscodefences  = true
 
   [[menu.main]]
       name = "Bio"
-      url  = "pages/bio"
+      url  = "/pages/bio"
   [[menu.main]]
       name = "Video"
-      url  = "pages/video"
+      url  = "/pages/video"
   [[menu.main]]
       name = "Music"
-      url  = "pages/music"
-
+      url  = "/pages/music"
   [[menu.main]]
       name = "Contact"
-      url  = "pages/contact"
+      url  = "/pages/contact"
