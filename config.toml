@@ -1,4 +1,4 @@
-baseURL = "http://bikespokestudios.github.io/jonathandavies"
+baseURL = "http://bikespokestudios.ca/jonathandavies"
 languageCode = "en-us"
 title = "Jonathan Davies"
 author = "Jonathan Davies"
@@ -11,3 +11,17 @@ pygmentscodefences  = true
 
 [params]
   sitename = "Jonathan Davies"
+
+  [[menu.main]]
+      name = "Bio"
+      url  = "pages/bio"
+  [[menu.main]]
+      name = "Video"
+      url  = "pages/video"
+  [[menu.main]]
+      name = "Music"
+      url  = "pages/music"
+
+  [[menu.main]]
+      name = "Contact"
+      url  = "pages/contact"

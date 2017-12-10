@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jonathan Davies</title>
-    <link>http://bikespokestudios.github.io/jonathandavies/categories/</link>
+    <link>http://bikespokestudios.ca/jonathandavies/categories/</link>
     <description>Recent content in Categories on Jonathan Davies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://bikespokestudios.github.io/jonathandavies/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bikespokestudios.ca/jonathandavies/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

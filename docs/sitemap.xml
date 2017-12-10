@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bikespokestudios.github.io/jonathandavies/categories/</loc>
+    <loc>http://bikespokestudios.ca/jonathandavies/pages/video/</loc>
+    <lastmod>2017-12-10T13:42:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bikespokestudios.ca/jonathandavies/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bikespokestudios.github.io/jonathandavies/</loc>
+    <loc>http://bikespokestudios.ca/jonathandavies/</loc>
+    <lastmod>2017-12-10T13:42:36-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bikespokestudios.github.io/jonathandavies/tags/</loc>
+    <loc>http://bikespokestudios.ca/jonathandavies/pages/</loc>
+    <lastmod>2017-12-10T13:42:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bikespokestudios.ca/jonathandavies/tags/</loc>
     <priority>0</priority>
   </url>
   
