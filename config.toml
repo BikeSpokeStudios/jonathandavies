@@ -1,4 +1,10 @@
 baseURL = "http:bikespokestudios.github.io/jonathandavies"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Jonathan Davies"
+author = "Jonathan Davies"
+canonifyurls = true
+theme = "black-and-light"
 publishDir = "docs"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
