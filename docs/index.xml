@@ -2,49 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Davies</title>
-    <link>http://bikespokestudios.ca/jonathandavies/</link>
+    <link>http://jonathandavies.ca/</link>
     <description>Recent content on Jonathan Davies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Dec 2017 15:04:51 -0500</lastBuildDate>
     
-	<atom:link href="http://bikespokestudios.ca/jonathandavies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jonathandavies.ca/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://bikespokestudios.ca/jonathandavies/pages/contact/</link>
+      <link>http://jonathandavies.ca/pages/contact/</link>
       <pubDate>Sun, 10 Dec 2017 15:04:51 -0500</pubDate>
       
-      <guid>http://bikespokestudios.ca/jonathandavies/pages/contact/</guid>
+      <guid>http://jonathandavies.ca/pages/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://bikespokestudios.ca/jonathandavies/pages/music/</link>
+      <link>http://jonathandavies.ca/pages/music/</link>
       <pubDate>Sun, 10 Dec 2017 15:04:43 -0500</pubDate>
       
-      <guid>http://bikespokestudios.ca/jonathandavies/pages/music/</guid>
-      <description></description>
+      <guid>http://jonathandavies.ca/pages/music/</guid>
+      <description>In the Sands from Periphery, 2017 Periphery by Jonathan Davies A collection of story songs, in French and English, of stigma, otherness and irrelevancy / Une collection de chansons qui traite de la stigmatisation et l&amp;rsquo;isolement.
+Already Written All My Good Songs, 2016 Already Written All My Good Songs by Jonathan Davies A review of a decade of songwriting and experimentation with production and instrumentation / Des chansons écrites et enregistrées depuis une dixaine d&amp;rsquo;années.</description>
     </item>
     
     <item>
       <title>Bio</title>
-      <link>http://bikespokestudios.ca/jonathandavies/pages/bio/</link>
+      <link>http://jonathandavies.ca/pages/bio/</link>
       <pubDate>Sun, 10 Dec 2017 15:04:22 -0500</pubDate>
       
-      <guid>http://bikespokestudios.ca/jonathandavies/pages/bio/</guid>
+      <guid>http://jonathandavies.ca/pages/bio/</guid>
       <description>Jonathan started early on the piano and plays to this day. He also had a brief but passionate acquaintance with the cello. But that was a long time ago. More importantly, he was introduced to the works of great composers - Vaughan Williams, Villa Lobos, Gershwin - as a small child. As a young adult he discovered, through campus radio and small, struggling bars and cafes, great musicians working away in relative obscurity.</description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>http://bikespokestudios.ca/jonathandavies/pages/video/</link>
-      <pubDate>Sun, 10 Dec 2017 13:42:36 -0500</pubDate>
-      
-      <guid>http://bikespokestudios.ca/jonathandavies/pages/video/</guid>
-      <description></description>
     </item>
     
   </channel>

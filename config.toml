@@ -16,9 +16,6 @@ pygmentscodefences  = true
       name = "Bio"
       url  = "/pages/bio"
   [[menu.main]]
-      name = "Video"
-      url  = "/pages/video"
-  [[menu.main]]
       name = "Music"
       url  = "/pages/music"
   [[menu.main]]
