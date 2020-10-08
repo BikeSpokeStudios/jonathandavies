@@ -21,3 +21,6 @@ pygmentscodefences  = true
   [[menu.main]]
       name = "Contact"
       url  = "/pages/contact"
+  [[menu.main]]
+      name = "Video"
+      url  = "/pages/video"
