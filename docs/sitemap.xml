@@ -1,47 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://jonathandavies.ca/pages/video/</loc>
-    <lastmod>2020-10-08T15:54:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jonathandavies.ca/pages/contact/</loc>
-    <lastmod>2017-12-10T15:04:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jonathandavies.ca/pages/music/</loc>
-    <lastmod>2017-12-10T15:04:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jonathandavies.ca/pages/bio/</loc>
-    <lastmod>2017-12-10T15:04:22-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jonathandavies.ca/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
   <url>
     <loc>http://jonathandavies.ca/</loc>
     <lastmod>2020-10-08T15:54:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://jonathandavies.ca/pages/</loc>
     <lastmod>2020-10-08T15:54:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://jonathandavies.ca/pages/video/</loc>
+    <lastmod>2020-10-08T15:54:35-04:00</lastmod>
+  </url><url>
+    <loc>http://jonathandavies.ca/pages/contact/</loc>
+    <lastmod>2017-12-10T15:04:51-05:00</lastmod>
+  </url><url>
+    <loc>http://jonathandavies.ca/pages/music/</loc>
+    <lastmod>2017-12-10T15:04:43-05:00</lastmod>
+  </url><url>
+    <loc>http://jonathandavies.ca/pages/bio/</loc>
+    <lastmod>2017-12-10T15:04:22-05:00</lastmod>
+  </url><url>
+    <loc>http://jonathandavies.ca/categories/</loc>
+  </url><url>
     <loc>http://jonathandavies.ca/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>
