@@ -24,3 +24,6 @@ pygmentscodefences  = true
   [[menu.main]]
       name = "Video"
       url  = "/pages/video"
+
+[markup.goldmark.renderer]
+    unsafe= true
